@@ -1,6 +1,6 @@
 ### Hi 👋, there!
 
-I am Yuxuan(Matt) Jiang, a passionate computer destroyer at ZJU-UIUC.
+I am Yuxuan(Matt) Jiang.
 
 - ⚡ Fun fact: **I think I am funny**
 
